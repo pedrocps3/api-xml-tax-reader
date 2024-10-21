@@ -1,1 +1,0 @@
-. "/home/phsantana/Documents/cpp/xml-reader/ApiXmlReader/build/Release/generators/conanrunenv-release-x86_64.sh"

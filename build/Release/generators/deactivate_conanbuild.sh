@@ -1,1 +1,0 @@
-. "/home/phsantana/Documents/cpp/xml-reader/ApiXmlReader/build/Release/generators/deactivate_conanbuildenv-release-x86_64.sh"

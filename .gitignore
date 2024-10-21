@@ -1,0 +1,32 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Diretórios de build
+build/
+bin/
+out/
+Debug/
+Release/
+*.dSYM/
+
+# Arquivos de configuração do CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+
+# Arquivos de sistema
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outros itens comuns
+*.tmp
+*.swp

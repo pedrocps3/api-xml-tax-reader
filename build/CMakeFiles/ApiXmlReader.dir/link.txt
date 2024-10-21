@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ApiXmlReader.dir/main.cpp.o -o ApiXmlReader  -ltinyxml2 libICMSInformation.a 
