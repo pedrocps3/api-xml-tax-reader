@@ -1,0 +1,2 @@
+/usr/bin/ar qc libICMSInformation.a CMakeFiles/ICMSInformation.dir/ICMSInformation.cpp.o
+/usr/bin/ranlib libICMSInformation.a

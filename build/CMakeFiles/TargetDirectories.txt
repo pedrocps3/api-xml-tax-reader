@@ -1,0 +1,4 @@
+/home/phsantana/Documents/cpp/xml-reader/ApiXmlReader/build/CMakeFiles/ApiXmlReader.dir
+/home/phsantana/Documents/cpp/xml-reader/ApiXmlReader/build/CMakeFiles/ICMSInformation.dir
+/home/phsantana/Documents/cpp/xml-reader/ApiXmlReader/build/CMakeFiles/edit_cache.dir
+/home/phsantana/Documents/cpp/xml-reader/ApiXmlReader/build/CMakeFiles/rebuild_cache.dir
