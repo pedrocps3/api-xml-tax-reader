@@ -106,7 +106,7 @@ int main() {
       .methods("POST"_method)([](const crow::request &req) {
         crow::json::rvalue json_body = crow::json::load(req.body);
         if (!json_body)
-          return crow::response(400, "invlaid json body");
+          return crow::response(400, "invalid json body");
 
         std::string xml_value = json_body["xml_value"].s();
         if (xml_value.empty())
